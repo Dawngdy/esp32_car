@@ -1,0 +1,5 @@
+cmake --build . -- -v
+[1/3] cmd.exe /C "cd /D D:\works\eclipse-workspace\esp32_project\esp32_car\esp32_car\build\bootloader && C:\Users\Administrator\.espressif\tools\cmake\3.16.4\bin\cmake.exe --build ."
+ninja: no work to do.
+Build complete (0 errors, 0 warnings): D:\works\eclipse-workspace\esp32_project\esp32_car\esp32_car\build
+Total time taken to build the project: 899 ms

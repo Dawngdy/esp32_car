@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+net.sourceforge.eclipseccase.add.master=false
+net.sourceforge.eclipseccase.checkout.reserved=always
+net.sourceforge.eclipseccase.comment.checkout=true
+net.sourceforge.eclipseccase.comment.checkout.neverOnAuto=false
+net.sourceforge.eclipseccase.config_spec.forbid_modification=true

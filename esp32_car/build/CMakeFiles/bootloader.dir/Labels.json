@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

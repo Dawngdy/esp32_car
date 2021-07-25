@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/CMakeFiles/bootloader
+D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/CMakeFiles/bootloader.rule
+D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/CMakeFiles/bootloader-complete.rule
+D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/works/eclipse-workspace/esp32_project/esp32_car/esp32_car/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
