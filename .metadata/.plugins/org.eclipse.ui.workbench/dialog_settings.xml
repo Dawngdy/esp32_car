@@ -11,17 +11,27 @@
 		</list>
 	</section>
 	<section name="PreferencesImportWizard">
-		<item key="" value="D:\works\eclipse-workspace\eclips_config_backup\preferences setting 0724.epf"/>
+		<item key="" value="E:\preferences setting 0726.epf"/>
 		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="E:\preferences setting 0726.epf"/>
 			<item value="D:\works\eclipse-workspace\eclips_config_backup\preferences setting 0724.epf"/>
 		</list>
 	</section>
 	<section name="PreferencesExportWizard">
 		<item key="" value="D:\works\eclipse-workspace\eclips_config_backup\preferences setting 0725.epf"/>
 		<item key="WizardPreferencesExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID" value="false"/>
-		<item key="WizardPreferencesExportPage1.EXPORT_ALL_PREFERENCES_ID" value="true"/>
+		<item key="WizardPreferencesExportPage1.EXPORT_ALL_PREFERENCES_ID" value="false"/>
+		<item key="" value="D:\works\eclipse-workspace\eclips_config_backup\preferences setting 0725.epf"/>
 		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
 			<item value="D:\works\eclipse-workspace\eclips_config_backup\preferences setting 0725.epf"/>
+		</list>
+		<list key="WizardPreferencesExportPage1.TRANSFER_PREFERENCES_NAMES_ID">
+			<item value="org.eclipse.cdt.ui.transfer.code_style"/>
+			<item value="org.eclipse.cdt.ui.transfer.editor.appearance"/>
+			<item value="org.eclipse.cdt.ui.transfer.editor.behavior"/>
+			<item value="org.eclipse.cdt.make.ui.transfer.editor.appearance"/>
+			<item value="org.eclipse.ui.ide.transfer.keys"/>
+			<item value="org.eclipse.ui.ide.problemFilters"/>
 		</list>
 	</section>
 </section>
